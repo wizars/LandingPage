@@ -168,10 +168,10 @@ footer span {
   }
   .text-bloque h2 {
     text-align: center;
-margin-bottom: 10px;
+    margin-bottom: 10px;
   }
-  div.icono-bloque{
-      height: 80px;
-      flex: auto;
+  div.icono-bloque {
+    height: 80px;
+    flex: auto;
   }
 }
